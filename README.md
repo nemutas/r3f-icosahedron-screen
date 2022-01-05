@@ -1,7 +1,7 @@
 # About
 このアプリケーションは、Icosahedron Sphere（ICO球）のそれぞれの面に、Textureを映し出すShaderの実験です。
 
-https://nemutas.github.io/r3f-icosahedron-screen/
+https://nemutas.github.io/r3f-icosahedron-screen/<br>
 ![output(video-cutter-js com) (6)](https://user-images.githubusercontent.com/46724121/148182033-b4c93a2a-d049-43db-92a9-f1172017be82.gif)
 
 # Reference
