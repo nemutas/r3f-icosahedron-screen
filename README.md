@@ -16,3 +16,4 @@ https://nemutas.github.io/r3f-icosahedron-screen/<br>
 
 # Detail
 詳細は、Qiitaにまとめています。
+[【React Three Fiber】ICO球の各面にTextureの断片を映し出すShaderの実装](https://qiita.com/nemutas/items/3d6bf5d251ce10cd4200)
